@@ -15,9 +15,9 @@
 <br/><br/>
 
 <a href="mailto:pranavharnaiya@gmail.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/YOUR-LEETCODE-ID"><img src="https://img.shields.io/badge/LeetCode-0b1020?style=for-the-badge&logo=leetcode&logoColor=fbbf24" alt="LeetCode"/></a>
-<a href="https://www.codechef.com/users/YOUR-CODECHEF-ID"><img src="https://img.shields.io/badge/CodeChef-0b1020?style=for-the-badge&logo=codechef&logoColor=c4a484" alt="CodeChef"/></a>
+<a href="https://www.linkedin.com/in/pranavharnaiya/"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/pranav0608/"><img src="https://img.shields.io/badge/LeetCode-0b1020?style=for-the-badge&logo=leetcode&logoColor=fbbf24" alt="LeetCode"/></a>
+<a href="https://www.codechef.com/users/pranav0608"><img src="https://img.shields.io/badge/CodeChef-0b1020?style=for-the-badge&logo=codechef&logoColor=c4a484" alt="CodeChef"/></a>
 
 </div>
 
@@ -157,8 +157,8 @@ A full-stack platform that uses AI to **evaluate the credibility of text, URLs a
 
 | Platform | Highlights |
 | :-- | :-- |
-| **LeetCode** | 500+ problems solved |
-| **CodeChef** | Peak rating **1416** (2★) · 40+ live contests · best live finish under rank 1200 |
+| **[LeetCode](https://leetcode.com/u/pranav0608/)** | 500+ problems solved |
+| **[CodeChef](https://www.codechef.com/users/pranav0608)** | Peak rating **1416** (2★) · 40+ live contests · best live finish under rank 1200 |
 | **GeeksforGeeks** | 100+ problems · coding score 500+ |
 
 </details>
