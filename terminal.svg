@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 330" width="820" height="330" role="img" aria-label="Terminal card describing Pranav">
+  <defs>
+    <linearGradient id="tb" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1b2140"/>
+      <stop offset="1" stop-color="#241a4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="330" rx="14" fill="#0b1020"/>
+  <rect width="820" height="38" rx="14" fill="url(#tb)"/>
+  <rect y="24" width="820" height="14" fill="url(#tb)"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="19" r="6" fill="#27c93f"/>
+  <text x="410" y="24" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#8b93b8">pranav@portfolio: ~</text>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="17">
+    <g opacity="0">
+      <text x="24" y="76"><tspan fill="#22d3ee">$</tspan><tspan fill="#e5e7eb"> whoami</tspan></text>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.4s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="24" y="102" fill="#a78bfa">Pranav Harnaiya — B.Tech CSE (Data Science), ABES Engineering College</text>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.2s" fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+      <text x="24" y="140"><tspan fill="#22d3ee">$</tspan><tspan fill="#e5e7eb"> cat stack.json</tspan></text>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.2s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="24" y="166" fill="#e5e7eb">{</text>
+      <text x="48" y="190"><tspan fill="#f472b6">"frontend"</tspan><tspan fill="#e5e7eb">: [</tspan><tspan fill="#86efac">"React"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"TypeScript"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"Tailwind"</tspan><tspan fill="#e5e7eb">],</tspan></text>
+      <text x="48" y="214"><tspan fill="#f472b6">"backend"</tspan><tspan fill="#e5e7eb">:  [</tspan><tspan fill="#86efac">"Node.js"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"Express"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"FastAPI"</tspan><tspan fill="#e5e7eb">],</tspan></text>
+      <text x="48" y="238"><tspan fill="#f472b6">"data"</tspan><tspan fill="#e5e7eb">:     [</tspan><tspan fill="#86efac">"PostgreSQL"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"MongoDB"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"Redis"</tspan><tspan fill="#e5e7eb">]</tspan></text>
+      <text x="24" y="262" fill="#e5e7eb">}</text>
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="3s" fill="freeze"/>
+    </g>
+
+    <g opacity="0">
+      <text x="24" y="300"><tspan fill="#22d3ee">$</tspan><tspan fill="#e5e7eb"> echo $STATUS</tspan></text>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="4s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="196" y="300" fill="#fbbf24">Building. Shipping. Learning. Open to opportunities</text>
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.6s" fill="freeze"/>
+    </g>
+    <!-- blinking cursor -->
+    <rect x="702" y="285" width="10" height="19" fill="#22d3ee" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="1s" begin="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="0.5" y="0.5" width="819" height="329" rx="14" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/>
+</svg>
