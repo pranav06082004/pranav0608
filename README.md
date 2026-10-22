@@ -62,7 +62,7 @@ I'm a third-year-style builder at heart: a **B.Tech CSE (Data Science)** student
 
 | Area | What I work with |
 | :-- | :-- |
-| **Languages** | C++, JavaScript, JavaScript, TypeScript |
+| **Languages** | C++, JavaScript, TypeScript |
 | **Frontend** | React, Redux Toolkit, Tailwind CSS, Vite |
 | **Backend & APIs** | Node.js, Express, REST, JWT, Role-Based Access Control (RBAC) |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis, SQL |
