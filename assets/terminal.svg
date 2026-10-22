@@ -30,7 +30,7 @@
     <g opacity="0">
       <text x="24" y="166" fill="#e5e7eb">{</text>
       <text x="48" y="190"><tspan fill="#f472b6">"frontend"</tspan><tspan fill="#e5e7eb">: [</tspan><tspan fill="#86efac">"React"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"JavaScript"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"Tailwind"</tspan><tspan fill="#e5e7eb">],</tspan></text>
-      <text x="48" y="214"><tspan fill="#f472b6">"backend"</tspan><tspan fill="#e5e7eb">:  [</tspan><tspan fill="#86efac">"Node.js"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"Express"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac"></tspan><tspan fill="#e5e7eb">],</tspan></text>
+      <text x="48" y="214"><tspan fill="#f472b6">"backend"</tspan><tspan fill="#e5e7eb">:  [</tspan><tspan fill="#86efac">"Node.js"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"Express"</tspan><tspan fill="#e5e7eb"></tspan><tspan fill="#86efac"></tspan><tspan fill="#e5e7eb">],</tspan></text>
       <text x="48" y="238"><tspan fill="#f472b6">"data"</tspan><tspan fill="#e5e7eb">:     [</tspan><tspan fill="#86efac">"PostgreSQL"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"MongoDB"</tspan><tspan fill="#e5e7eb">, </tspan><tspan fill="#86efac">"Redis"</tspan><tspan fill="#e5e7eb">]</tspan></text>
       <text x="24" y="262" fill="#e5e7eb">}</text>
       <animate attributeName="opacity" values="0;1" dur="0.6s" begin="3s" fill="freeze"/>
