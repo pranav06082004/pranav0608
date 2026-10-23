@@ -31,7 +31,7 @@
 
 <br/>
 
-I'm a third-year-style builder at heart: a **B.Tech CSE (Data Science)** student at **ABES Engineering College** who likes taking a product idea all the way from database schema to polished UI. I care about clean APIs, snappy real-time experiences, and adding **ML/AI** where it genuinely makes an app smarter.
+I'm a fourth-year-style builder at heart: a **B.Tech CSE (Data Science)** student at **ABES Engineering College** who likes taking a product idea all the way from database schema to polished UI. I care about clean APIs, snappy real-time experiences, and adding **ML/AI** where it genuinely makes an app smarter.
 
 <table align="center">
 <tr>
