@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=pranav06082004&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="Profile views"/>
+<img src="https://hits.sh/github.com/pranav06082004.svg?style=for-the-badge&label=Profile%20Views&color=a78bfa&labelColor=0b1020" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/pranav06082004?label=Followers&style=for-the-badge&logo=github&color=22d3ee&labelColor=0b1020" alt="Followers"/>
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-f472b6?style=for-the-badge&labelColor=0b1020" alt="Open to opportunities"/>
 
